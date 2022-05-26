@@ -1,3 +1,3 @@
-const contentCont = document.querySelector("#content");
+import initWebsite from "./webite";
 
-console.log("Check");
+initWebsite();
